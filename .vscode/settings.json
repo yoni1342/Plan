@@ -1,0 +1,27 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#0057B8",
+    "activityBar.activeBorder": "#15202b",
+    "activityBar.background": "#0057B8",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBar.inactiveForeground": "#FFFFFF",
+    "activityBarBadge.background": "#15202b",
+    "activityBarBadge.foreground": "#D1F3FF",
+    "statusBar.background": "#76E0FF",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBarItem.hoverBackground": "#D1F3FF",
+    "titleBar.activeBackground": "#76E0FF",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#76E0FF",
+    "titleBar.inactiveForeground": "#FFFFFF",
+    "sash.hoverBorder": "#0057B8",
+    "statusBarItem.remoteBackground": "#76E0FF",
+    "statusBarItem.remoteForeground": "#FFFFFF",
+    "commandCenter.border": "#FFFFFF"
+  },
+  "editor.formatOnSave": true,
+  "[css]": {
+    "editor.formatOnSave": false
+  },
+  "nuxt.isNuxtApp": false
+}
